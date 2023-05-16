@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluent-ui-controls-client-side-solution",
+    "id": "25ec650e-d923-41b4-b586-61d8bbad606f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fluentUiControls description"
+      },
+      "longDescription": {
+        "default": "fluentUiControls description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fluent-ui-controls Feature",
+        "description": "The feature that activates elements of the fluent-ui-controls solution.",
+        "id": "d96087fe-234e-469d-bd66-32332ecf509e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fluent-ui-controls.sppkg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "fluent-ui-controls",
+    "libraryId": "25ec650e-d923-41b4-b586-61d8bbad606f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fluentUiControls",
+    "solutionShortDescription": "fluentUiControls description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
